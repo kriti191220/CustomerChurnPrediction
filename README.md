@@ -31,7 +31,7 @@ The CSV files are not included in this repository because of their size. Downloa
 Random Forest and XGBoost perform almost the same and clearly beat Logistic Regression. Test-set scores are very close to the validation scores. Logistic Regression gives a `ConvergenceWarning` with default settings. Raising `max_iter` or scaling the features is a possible next step.
 
 ## How to run
-1. Clone this repository: `git clone <your-repo-url>`
+1. Clone this repository: `git clone <(https://github.com/kriti191220/CustomerChurnPrediction)l>`
 2. Install the requirements: `pip install -r requirements.txt`
 3. Download the two CSV files from Kaggle and place them in the project folder
 4. Open `Churn_Prediction_Step_by_Step.ipynb` and run all cells (update the file paths in Step 2 if your file names differ)
@@ -44,4 +44,4 @@ Random Forest and XGBoost perform almost the same and clearly beat Logistic Regr
 Python, pandas, scikit-learn, XGBoost, matplotlib, seaborn
 
 ## Author
-<Kriti Tandon> · <(https://www.linkedin.com/in/kriti-tandon-b02381229/)>
+Kriti Tandon · <(https://www.linkedin.com/in/kriti-tandon-b02381229/)>
